@@ -24,11 +24,11 @@ public class HelloWorld {
 		int resultado2;
 		
 		
-		resultado1 = ++a *2;
-		resultado2 = b++ *2;
+		//resultado1 = ++a *2;
+		//resultado2 = b++ *2;
 		
-		System.out.println("Resultado 1 = "+resultado1);
-		System.out.println("Resultado 2 = "+resultado2);
+		//System.out.println("Resultado 1 = "+resultado1);
+		//System.out.println("Resultado 2 = "+resultado2);
 		
 		
 		
